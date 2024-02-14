@@ -1,0 +1,7 @@
+prime
+not prime
+prime
+not prime
+prime
+prime
+not prime
